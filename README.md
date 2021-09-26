@@ -8,8 +8,16 @@
 
 # **Ques 2:**
 ### Create 1 problem statement and 10 questions for the input data (ranking from easy to difficult): (3pts)
-####  Tạo ra 10  hỏi hợp lý giải quyết vấn đề và định nghĩa vấn đề liên quan tới dữ liệu,
-####  Tham khảo cách đặt câu hỏi trong challenge 1 và challenge 2
+####  Ques 1: Check the head of df
+####  Ques 2: Generating list of all players to .CSV files by coding
+####  Ques 3: What are the Opening from 4th - 10th for chess-games
+####  Ques 4: create two columns win and lose of black and white
+####  Ques 5: count all win and lose of white and black
+####  Ques 6: 
+####  Ques 7: 
+####  Ques 8: 
+####  Ques 9: 
+####  Ques 10: 
 
 # **Ques 3:**
 ### Solve your 10 questions (3pts)
