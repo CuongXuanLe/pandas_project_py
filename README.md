@@ -9,14 +9,14 @@
 # **Ques 2:**
 ### Create 1 problem statement and 10 questions for the input data (ranking from easy to difficult): (3pts)
 ####  Ques 1: Check the head of df
-####  Ques 2: Generating list of all players to .CSV files by coding
-####  Ques 3: What are the Opening from 4th - 10th for chess-games
-####  Ques 4: create two columns win and lose of black and white
-####  Ques 5: count all win and lose of white and black
-####  Ques 6: 
+####  Ques 2: What are the Opening from 4th - 10th for chess-games
+####  Ques 3: Mean, max, min of rating between white and black of each event
+####  Ques 4: Create column to find who won and draw game
+####  Ques 5: Count all moves of a match between two players
+####  Ques 6: Generating list of all players to .CSV files by coding
 ####  Ques 7: 
-####  Ques 8: 
-####  Ques 9: 
+####  Ques 8: Summary of differences in Elo ratings
+####  Ques 9: draw chart about Elo ratings between Black and White players
 ####  Ques 10: 
 
 # **Ques 3:**
