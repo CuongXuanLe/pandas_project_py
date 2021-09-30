@@ -1,8 +1,8 @@
 # _"Final_project"_
 
-# Full name: Le Xuan Cuong
-# ID_Student: 20020022
-# Class: 20CSE
+### Full name: Le Xuan Cuong
+### ID_Student: 20020022
+### Class: 20CSE
 
 # **Data:**
 ### chess_games_large.csv
